@@ -1,0 +1,25 @@
+{
+  "name": "hashu",
+  "version": "1.0.0",
+  "description": "hashes a string into an index within in a repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x4139/hashu"
+  },
+  "keywords": [
+    "hash",
+    "string",
+    "hash",
+    "string"
+  ],
+  "author": "0x4139@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x4139/hashu/issues"
+  },
+  "homepage": "https://github.com/0x4139/hashu"
+}
