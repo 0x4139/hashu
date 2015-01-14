@@ -1,6 +1,6 @@
 {
   "name": "hashu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hashes a string into an index within in a repository",
   "main": "index.js",
   "scripts": {

@@ -1,5 +1,5 @@
 var Hash = require('./');
-var emails=['a','b','c'];
+var emails=['a','b','c','d','e','f'];
 
-var EmailsRepository=new Hash(emails);
-console.log(EmailsRepository.Get('0x4139@gmail.com'));
+var LettersRepository=new Hash(emails);
+console.log(LettersRepository.Get('0x4139@gmail.com'));
